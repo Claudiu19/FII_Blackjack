@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484342520 source:d:\lucru\facultate\ip\blackjack\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<string>
+
